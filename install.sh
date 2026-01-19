@@ -1,8 +1,8 @@
 #!/bin/bash
 
 cd ~
-sudo apt update -y
-sudo apt upgrade -y
+brew update
+brew upgrade
 git init
 git remote add origin https://github.com/BosEriko/ubuntu.git
 git fetch
