@@ -4,8 +4,6 @@
 # But not these files...
 !.files/
 !.files/**
-!.vscode/
-!.vscode/**
 !.gitconfig
 !.gitignore
 !.gitmodules
