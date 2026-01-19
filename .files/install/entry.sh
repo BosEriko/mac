@@ -16,7 +16,7 @@ install_module() {
 }
 
 # Install all modules
-install_module "APT"
+install_module "Brew"
 install_module "Redis"
 install_module "Node"
 install_module "fzf"
