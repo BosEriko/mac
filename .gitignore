@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# But not these files...
+!.files/
+!.files/**
+!.vscode/
+!.vscode/**
+!.gitconfig
+!.gitignore
+!.gitmodules
+!.zsh_history
+!.zshrc
+!example.env.z.sh
+!install.sh
+!README.md
