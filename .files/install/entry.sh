@@ -18,6 +18,7 @@ install_module() {
 # Install all modules
 install_module "Brew"
 install_module "Redis"
+install_module "Postgres"
 install_module "Node"
 install_module "fzf"
 install_module "YouTube"

@@ -15,8 +15,5 @@ brew update
 # Install packages
 brew install "${packages[@]}"
 
-# Optional: start PostgreSQL service
-brew services start postgresql
-
 # Clean up unused packages and cache
 brew cleanup
