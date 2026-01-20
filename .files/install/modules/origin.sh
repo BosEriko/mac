@@ -20,7 +20,7 @@ set_origins() {
 
 # Define directory and repository path
 repositories=(
-  "~ BosEriko/ubuntu"
+  "~ BosEriko/mac"
   "~/.files/zsh BosEriko/zsh"
 )
 
