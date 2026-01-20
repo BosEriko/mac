@@ -4,7 +4,7 @@
 source ~/env.z.sh
 
 # Define the directory containing anime files
-anime_directory="$STORAGE/Anime"
+anime_directory="~/Movies/Anime"
 
 # Loop through each .mkv file in the directory
 for anime in "$anime_directory"/*.mkv; do

@@ -8,4 +8,4 @@ else
   query=$1
 fi
 
-youtube-dl "$query" -o "$STORAGE/YouTube/%(title)s-%(id)s.%(ext)s"
+youtube-dl "$query" -o "~/Movies/YouTube/%(title)s-%(id)s.%(ext)s"

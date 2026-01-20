@@ -97,7 +97,7 @@ echo "🔍 Searching Magnet seeds 🧲"
 magnet=$(head -$LINE $cachedir/magnet.bak | tail -1)
 
 # Download the file
-webtorrent "$magnet" --out $STORAGE/Anime
+webtorrent "$magnet" --out ~/Movies/Anime
 
 # Clean Anime Name
 ~/.files/scripts/anime/clean.sh
