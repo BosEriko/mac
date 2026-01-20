@@ -4,7 +4,6 @@
 packages=(
   figlet        # Create large ASCII text banners
   jq            # Command-line JSON processor
-  postgresql    # PostgreSQL database (includes contrib tools on macOS)
   zsh           # Z shell (macOS ships with zsh, but this installs the latest version)
   antigen       # Zsh plugin manager
 )

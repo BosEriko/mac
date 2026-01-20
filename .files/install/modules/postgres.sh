@@ -1,4 +1,7 @@
 #!/bin/bash
 
-# Start PostgreSQL service
+# Install PostgreSQL
+brew install postgresql
+
+# Start PostgreSQL
 brew services start postgresql
