@@ -1,11 +1,13 @@
 #!/bin/bash
 
 # Install Node.js
-curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
-sudo apt install -y nodejs
+brew install node
 
-# Install Yarn (https://github.com/yarnpkg/yarn)
-sudo npm install --global yarn
+# Install Yarn
+brew install yarn
+
+# Disable SSL Verification
+yarn config set "strict-ssl" false
 
 # Install fnm (https://github.com/Schniz/fnm)
 cd ~ && curl -fsSL https://fnm.vercel.app/install | bash -s -- --install-dir "~/.fnm" --skip-shell
