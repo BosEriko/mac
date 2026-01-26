@@ -7,6 +7,7 @@ packages=(
   zsh           # Z shell (macOS ships with zsh, but this installs the latest version)
   antigen       # Zsh plugin manager
   tmux          # Terminal multiplexer
+  opencode      # OpenCode
 )
 
 # Update Homebrew
