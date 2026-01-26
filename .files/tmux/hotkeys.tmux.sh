@@ -2,7 +2,7 @@
 # ================================================================================ [Hotkeys] ===== #
 
 # reload config file
-bind r source-file ~/.tmux.conf \; display "Config Reloaded!"
+bind r run-shell "~/.tmux/plugins/tpm/bin/install_plugins" \; source-file ~/.tmux.conf \; display-message "Config reloaded"
 
 # split window and fix path for tmux 1.9
 bind | split-window -h -c "#{pane_current_path}"
