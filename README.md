@@ -22,5 +22,11 @@ tmux new-session -d
 ~/.tmux/plugins/tpm/bin/install_plugins
 ```
 
+## Commands
+There are keybindings assosciated with this configuration. They are the follwing:
+- Open Terminal Filetree: `ctrl`+`e`
+- Search Previous Commands: `ctrl`+`r`
+- Fuzzy Find Files: `ctrl`+`t`
+
 ## Call to action
 If you want to share some ideas you can email me at boseriko@duck.com.
