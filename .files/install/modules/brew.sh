@@ -6,7 +6,7 @@ packages=(
   jq            # Command-line JSON processor
   zsh           # Z shell (macOS ships with zsh, but this installs the latest version)
   antigen       # Zsh plugin manager
-  tmux		# Terminal multiplexer
+  tmux          # Terminal multiplexer
 )
 
 # Update Homebrew
