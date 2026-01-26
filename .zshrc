@@ -1,5 +1,5 @@
 source ~/env.z.sh
-source ~/.files/zsh/config.z.sh
+source ~/.files/zsh/config/mac.z.sh
 source ~/.files/zsh/colors.z.sh
 source ~/.files/zsh/plugins/mac.z.sh
 source ~/.files/zsh/dir.z.sh
