@@ -18,6 +18,8 @@ After setting up the environment variables you can now proceed to the installati
 ```sh
 xcode-select --install
 source ~/env.z.sh && ~/.files/install/entry.sh
+tmux new-session -d
+~/.tmux/plugins/tpm/bin/install_plugins
 ```
 
 ## Call to action
