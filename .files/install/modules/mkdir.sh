@@ -5,6 +5,3 @@ mkdir -p ~/Documents/Codes/Work ~/Documents/Codes/Personal ~/Documents/Codes/Con
 
 echo "Make the directory for your Anime"
 mkdir -p ~/Movies/Anime
-
-echo "Make the directory for your Films"
-mkdir -p ~/Movies/Films
