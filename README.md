@@ -22,12 +22,16 @@ tmux new-session -d
 ~/.tmux/plugins/tpm/bin/install_plugins
 ```
 
-## Commands
+## Default Keybinds
 There are keybindings assosciated with this configuration. They are the follwing:
-- Open Terminal Filetree: `ctrl`+`e`
+- Open Explorer: `ctrl`+`e`
 - Search Previous Commands: `ctrl`+`r`
 - Fuzzy Find Files: `ctrl`+`t`
-- Open Opencode: `ctrl`+`y`
+
+## Tmux Keybinds
+There are Tmux keybindings as well. They are the following:
+- Open Opencode: `ctrl`+`a`~`o`
+- Vim mode: `ctrl`+`a`~`esc`
 
 ## Call to action
 If you want to share some ideas you can email me at boseriko@duck.com.
