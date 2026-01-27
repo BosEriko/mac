@@ -27,6 +27,7 @@ There are keybindings assosciated with this configuration. They are the follwing
 - Open Terminal Filetree: `ctrl`+`e`
 - Search Previous Commands: `ctrl`+`r`
 - Fuzzy Find Files: `ctrl`+`t`
+- Open Opencode: `ctrl`+`y`
 
 ## Call to action
 If you want to share some ideas you can email me at boseriko@duck.com.
