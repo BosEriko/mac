@@ -8,6 +8,3 @@ mkdir -p ~/Movies/Anime
 
 echo "Make the directory for your Films"
 mkdir -p ~/Movies/Films
-
-echo "Make the directory for YouTube videos"
-mkdir -p ~/Movies/YouTube
