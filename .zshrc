@@ -7,7 +7,6 @@ source ~/.files/zsh/alias/mac.z.sh
 source ~/.files/zsh/docker.z.sh
 source ~/.files/zsh/projects/mac.z.sh
 source ~/.files/zsh/source/mac.z.sh
-source ~/.files/zsh/tmux.z.sh
 source ~/.files/zsh/yazi/mac.z.sh
 source ~/.files/zsh/git.z.sh
 source ~/.files/zsh/personal/mac.z.sh
