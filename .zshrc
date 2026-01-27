@@ -11,4 +11,3 @@ source ~/.files/zsh/yazi/mac.z.sh
 source ~/.files/zsh/git.z.sh
 source ~/.files/zsh/personal/mac.z.sh
 source ~/.files/zsh/session.z.sh
-source ~/.files/zsh/todo.z.sh

@@ -9,7 +9,6 @@ packages=(
   tmux                          # Terminal multiplexer
   opencode                      # OpenCode CLI tool
   transmission-cli              # Transmission is a fast, easy, and free BitTorrent client
-  sachaos/todoist/todoist       # Todoist CLI Client, written in Golang.
   # yazi dependencies
   yazi                          # Terminal file manager
   ffmpeg                        # Audio/video processing and thumbnail generation
