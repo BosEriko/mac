@@ -41,7 +41,7 @@ echo -e "${B_YELLOW}Bitbucket: ${B_GREEN}https://bitbucket.org/account/settings/
 
 # Check if SSH key exists before copying
 if [[ -f ~/.ssh/id_rsa.pub ]]; then
-    cat ~/.ssh/id_rsa.pub | clip.exe
+    cat ~/.ssh/id_rsa.pub | pbcopy
     echo -e "${B_GREEN}✅ Your SSH public key has been copied to the clipboard!${RESET}"
     echo -e "Paste it into your account settings above."
 else
