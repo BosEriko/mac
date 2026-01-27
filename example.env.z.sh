@@ -1,10 +1,4 @@
 PASSWORD="XXXX"
-STORAGE="XXXX"
-
-# Configuration Directories
-GLAZE_DIRECTORY="XXXX"
-VS_DIRECTORY="XXXX"
-OBS_DIRECTORY="XXXX"
 
 # Bos Eriko Main Projects Directories
 BOS_ERIKO_PLUS_DIRECTORY="XXXX"
