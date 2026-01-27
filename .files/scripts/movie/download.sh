@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Dependencies - webtorrent, mpv
-# https://github.com/BreadMoncher/notflix
-# https://github.com/Bugswriter/notflix
-
 source ~/env.z.sh
 mkdir -p $HOME/.cache/notflix
 
@@ -71,4 +67,4 @@ curl -s $fullURL > $cachedir/tmp.html
 magnet=$(grep -Eo "magnet:\?xt=urn:btih:[a-zA-Z0-9]*" $cachedir/tmp.html | head -n 1)
 
 # Download the file
-webtorrent "$magnet" --out ~/Movies/Films
+transmission-cli "$magnet" -w "~/Movies/Films"
