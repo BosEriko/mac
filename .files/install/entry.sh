@@ -17,6 +17,7 @@ install_module() {
 
 # Install all modules
 install_module "Brew"
+install_module "Notes"
 install_module "Redis"
 install_module "Postgres"
 install_module "Node"
