@@ -22,6 +22,7 @@ set_origins() {
 repositories=(
   "~ BosEriko/mac"
   "~/.files/zsh BosEriko/zsh"
+  "~/Documents/Notes BosEriko/obsidian"
 )
 
 # Loop through repositories and update origins
