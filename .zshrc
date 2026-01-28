@@ -1,6 +1,7 @@
 source ~/env.z.sh
 source ~/.files/zsh/config/mac.z.sh
 source ~/.files/zsh/colors.z.sh
+source ~/.files/zsh/notes/mac.z.sh
 source ~/.files/zsh/plugins/mac.z.sh
 source ~/.files/zsh/dir.z.sh
 source ~/.files/zsh/alias/mac.z.sh
