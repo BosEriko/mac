@@ -8,7 +8,6 @@
 !.gitignore
 !.gitmodules
 !.tmux.conf
-!.zsh_history
 !.zshrc
 !example.env.z.sh
 !install.sh
